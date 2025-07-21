@@ -25,4 +25,4 @@ I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#).
 - **Unity RTS Game — [Crown of Greed](https://store.steampowered.com/app/1697870/Crown_of_Greed/)**  
 
 
-📌 I'm passionate about clean code, system design, and continuous learning. Let’s build something cool — feel free to explore my projects or reach out!
+📌 I'm passionate about clean code, system design, and continuous learning. Let’s build something cool — feel free to explore my projects and reach out!
