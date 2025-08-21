@@ -1,9 +1,8 @@
 # 👋 Hey there, I'm Damian!
 
-I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#). Currently transitioning into backend and cloud development, focusing on .NET, Azure, and DevOps tools.
+I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#). I'm currently focusing on DevOps and cloud technologies like Azure and AWS. In the meantime, I'm also developing my skills in Python and AI.
 
 🎓 Studying Computer Science while building real-world projects and exploring modern cloud-native technologies.
-
 
 
 ## 💻 My key interests:
