@@ -16,8 +16,8 @@ I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#).
 ## 🚀 Notable projects:
 
 - **Jira clone** fully deployed on Azure with CI/CD. Dockerized and deployed on Kubernetes (AKS)
-- **Stock tracking app** using Azure Functions and React  
-
+- **Stock tracking app** – built with Azure Functions and React. Infrastructure defined and managed with Bicep and Terraform (IaC).
+- 
 
 ## 🎮 Commercial project:
 
