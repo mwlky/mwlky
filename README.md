@@ -11,6 +11,7 @@ I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#).
 - 🐳 Containers & Orchestration – Docker, Kubernetes, Helm, Kustomize 
 - 🛠️ Infrastructure as Code (IaC) – Terraform, Bicep
 - 🔄 DevOps & Automation – GitHub Actions, Azure DevOps, CI/CD pipelines
+- 🌐 Development & Integration – .NET backend, React frontend, API design
 
 ## 🚀 Notable projects:
 
