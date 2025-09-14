@@ -7,11 +7,10 @@ I'm a 22-year-old developer with 2 years of commercial experience in Unity (C#).
 
 ## 💻 My key interests:
  
-- ☁️ Cloud engineering (Azure, Azure Functions, CI/CD)  
-- 🐳 Containerization and orchestration (Docker, Kubernetes)  
-- 🛠️ DevOps practices (Terraform, GitHub Actions)
-- 🌐 Full-stack development with React + .NET 
-
+- ☁️ Cloud & Infrastructure – Azure (Functions, CI/CD, Resource Management) 
+- 🐳 Containers & Orchestration – Docker, Kubernetes, Helm, Kustomize 
+- 🛠️ Infrastructure as Code (IaC) – Terraform, Bicep
+- 🔄 DevOps & Automation – GitHub Actions, Azure DevOps, CI/CD pipelines
 
 ## 🚀 Notable projects:
 
